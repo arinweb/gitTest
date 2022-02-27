@@ -1,3 +1,3 @@
 <?php
- echo "Merhaba Dünya Naber Gelmeden Senden Bi haber";
+ echo "Merhaba Dünya Naber Gelmedi Senden Bi haber";
 ?>
